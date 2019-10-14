@@ -6,33 +6,31 @@ La base de donnée de contient 7 tables à savoir les tables: user, score, modul
 ## Les 7 tables:
 
 ## user
-
-
-- [x] id
-- [x] nom
-- [x] prenom
--email
+- id
+- nom
+- prenom
+- email
 
 ## module
--id
-nom_module
+- id
+- nom_module
 
 ## stage
-id
-nom_stage
-id_module
+- id
+- nom_stage
+- id_module
 
 ## niveau
-id
-nom_niveau
-id_stage
+- id
+- nom_niveau
+- id_stage
 
 ## question
-id
-question
-id_niveau
+- id
+- question
+- id_niveau
 
 ## reponse
-id
-reponse
-id_question
+- id
+- reponse
+- id_question
