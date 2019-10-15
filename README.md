@@ -34,3 +34,5 @@ La base de donnée de contient 7 tables à savoir les tables: user, score, modul
 - id
 - reponse
 - id_question
+
+ ! [alt text](https://github.com/emmanuelaka2010/Projet-quiz/blob/master/Capture%20d%E2%80%99e%CC%81cran%202019-10-14%20a%CC%80%2017.07.07.png)
